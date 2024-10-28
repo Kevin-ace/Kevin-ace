@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">👨‍💻 Software Engineer | Computer Science Major</h3>
+<h2 align="center">check out my Portifolio web page</h2>
+<h4 align="center">https://kevin-ace.github.io/portifolio-website</h4>
 
 - 🔭 I’m currently working on [Royal Banking](git@github.com:Kevin-ace/g_bank.git)
 
